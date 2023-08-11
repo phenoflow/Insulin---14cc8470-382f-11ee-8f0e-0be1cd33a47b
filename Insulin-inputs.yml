@@ -1,0 +1,120 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/insulin-novomix---primary.py
+inputModule3:
+  class: File
+  path: python/insulin-aspart---primary.py
+inputModule4:
+  class: File
+  path: python/insulin-isophane---primary.py
+inputModule5:
+  class: File
+  path: python/insulin-detemir---primary.py
+inputModule6:
+  class: File
+  path: python/insulin-cartridge---primary.py
+inputModule7:
+  class: File
+  path: python/insulin-opticlik---primary.py
+inputModule8:
+  class: File
+  path: python/insulin-flexpen---primary.py
+inputModule9:
+  class: File
+  path: python/insulin-glargine---primary.py
+inputModule10:
+  class: File
+  path: python/insulin-humulin---primary.py
+inputModule11:
+  class: File
+  path: python/insulin-lente---primary.py
+inputModule12:
+  class: File
+  path: python/insulin-soluble---primary.py
+inputModule13:
+  class: File
+  path: python/biphasic-insulin---primary.py
+inputModule14:
+  class: File
+  path: python/insulin-pharm---primary.py
+inputModule15:
+  class: File
+  path: python/insulin-wockhardt---primary.py
+inputModule16:
+  class: File
+  path: python/insulin-glulisine---primary.py
+inputModule17:
+  class: File
+  path: python/insulin-lispro---primary.py
+inputModule18:
+  class: File
+  path: python/neutral-insulin---primary.py
+inputModule19:
+  class: File
+  path: python/rapid-insulin---primary.py
+inputModule20:
+  class: File
+  path: python/insulin-protamine---primary.py
+inputModule21:
+  class: File
+  path: python/insulin-porcine---primary.py
+inputModule22:
+  class: File
+  path: python/insulin-insuman---primary.py
+inputModule23:
+  class: File
+  path: python/insulin-bovine---primary.py
+inputModule24:
+  class: File
+  path: python/insulin-monotard---primary.py
+inputModule25:
+  class: File
+  path: python/insulin-injection---primary.py
+inputModule26:
+  class: File
+  path: python/mixed-insulin---primary.py
+inputModule27:
+  class: File
+  path: python/insulin-device---primary.py
+inputModule28:
+  class: File
+  path: python/insulin-humalog---primary.py
+inputModule29:
+  class: File
+  path: python/insulin-acting---primary.py
+inputModule30:
+  class: File
+  path: python/insulin-basal---primary.py
+inputModule31:
+  class: File
+  path: python/insulin-optiset---primary.py
+inputModule32:
+  class: File
+  path: python/insulin-pfizer---primary.py
+inputModule33:
+  class: File
+  path: python/insulin-initard---primary.py
+inputModule34:
+  class: File
+  path: python/insulin-inhalation---primary.py
+inputModule35:
+  class: File
+  path: python/insulin-solostar---primary.py
+inputModule36:
+  class: File
+  path: python/insulin-celltech---primary.py
+inputModule37:
+  class: File
+  path: python/insulin-kwikpen---primary.py
+inputModule38:
+  class: File
+  path: python/insulin-lantus---primary.py
+inputModule39:
+  class: File
+  path: python/insulin-protaphane---primary.py
+inputModule40:
+  class: File
+  path: python/output-cases.py
